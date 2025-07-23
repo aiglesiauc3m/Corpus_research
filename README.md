@@ -7,3 +7,5 @@ Their inherent challenges make them a valuable testbed for improving clarity and
 The corpus was compiled in November 2023, ensuring a balanced representation of government departments. Care was taken to include diverse content, linguistic styles, and perspectives.
 
 This corpus is intended strictly for academic and research use under Creative Commons Policies.
+
+If you are interested in using this corpus for research purposes, please email aiglesia@inf.uc3m.es to explain how you intend to use it. We will then send you the password to access the corpus.
